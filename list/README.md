@@ -9,3 +9,5 @@
 # list/l=3:7/x:10
 
 # list/l=2:10/x=1/y=1 tos ,tos*2
+# ![image](https://user-images.githubusercontent.com/73323188/134502236-878e4c46-2f07-4f27-b9d9-73b25b026f29.png)
+
