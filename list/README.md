@@ -5,3 +5,7 @@
 ## 변수를 나열하면 여러개의 변수를 볼수 도 있다.
 
 ![image](https://user-images.githubusercontent.com/73323188/134501043-4cb893f0-ab7e-4751-83ae-1fd6d4f5c1c8.png)
+
+# list/l=3:7/x:10
+
+# list/l=2:10/x=1/y=1 tos ,tos*2
